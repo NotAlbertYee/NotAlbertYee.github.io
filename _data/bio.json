@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Albert Yee",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "/images/albert.png",
+    "email": "albert@raywellness.app",
+    "phone": "808-206-0702",
+    "website": "https://notalbertyee.github.io",
+    "summary": "I am cuurently a sophomore at Assets High School. I am learning coding at Purple Maia at Halau Inana. I expect to graduate in Summer of, 2021.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,39 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "notalbertyee",
+        "url": "http://github.com/notalbertyee"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "username",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "username",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "albirdyee",
+        "url": "http://instagram.com/albirdyee"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "virual reality",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "ios development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "artificial intelligence"
       "keywords": [
       ]
     }
@@ -61,12 +59,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
+        "HTML5",
+        "CSS",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C#",
+        "Swift",
       ]
     },
     {
@@ -74,21 +71,21 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "X-Code",
+        "Unity"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Assets High School",
+      "area": "High School (expected Summer, 2021)",
+      "studyType": "",
+      "startDate": "2017-07-XX",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.71",
       "courses": [
       ]
     }
