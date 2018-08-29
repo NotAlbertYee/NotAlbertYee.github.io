@@ -49,7 +49,11 @@
       ]
     },
     {
-      "name": "Psychological Disorder"
+<<<<<<< HEAD
+      "name": "Psychological Disorder",
+=======
+      "name": "artificial intelligence",
+>>>>>>> 5ce182f0fc1aeb66d23de9e319b97ace44710186
       "keywords": [
       ]
     }
